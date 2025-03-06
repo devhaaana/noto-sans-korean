@@ -17,31 +17,31 @@
 
 </div>
 
-`noto-sans-korean` is a [Noto Sans Korean](https://fonts.google.com/noto/specimen/Noto+Sans+KR) web font for web developers.
+`noto-sans-korean`은 웹 개발자를 위한 본고딕([Noto Sans Korean](https://fonts.google.com/noto/specimen/Noto+Sans+KR)) 웹 폰트입니다.
 
-## Getting Started
+## 시작하기
 
-### Installation
+### 설치
 
-- You can install it **locally**:
+- **로컬** 설치
   ```console
   $ git clone https://github.com/devhaaana/noto-sans-korean.git
   $ cd noto-sans-korean
   ```
-- Place the downloaded files in your preferred project directory.
+- 다운로드한 파일을 프로젝트의 원하는 경로에 넣어주세요.
 
-#### Usage: CSS
+#### 사용 방법: CSS
 
-- **Import** the stylesheet at the top of your main `.css` file:
+- 프로젝트의 메인 `.css` 파일 상단에 다음과 같이 **import** 하세요:
 
 ```css
 @import("/noto-sans-korean/css/noto-sans-korean.css");
 ```
 
-- Apply the font to the `body` or any necessary elements:
+- body 또는 필요한 곳에 다음과 같이 폰트를 적용하세요:
 
 ```css
-// Default OS fonts
+// OS 기본 폰트
 // Mac OS: -apple-system, BlinkMacSystemFont
 // Windows: Segoe UI
 // Android: Roboto
@@ -51,14 +51,14 @@ body {
 }
 ```
 
-##### Caution
+##### 주의
 
-- If you change the folder path, make sure to **update the paths** in `css/noto-sans-korean.css`.
-  - Default folder structure: `css/`, `fonts/`, `fonts/eot/`, `fonts/otf/`, `fonts/woff/`, `fonts/woff2/`
+- 폴더 경로를 변경할 경우 `css/noto-sans-korean.css` 파일에서 **경로를 변경**해야 합니다.
+  - 기본 폴더 경로: `css/`, `fonts/`, `fonts/eot/`, `fonts/otf/`, `fonts/woff/`, `fonts/woff2/`
 
-## Release Files
+## 릴리스 파일
 
-| File                 | Description                                                 |
-| :------------------- | :---------------------------------------------------------- |
-| [radipy-1.0.0.zip]()    | A*ZIP* file containing the full source code of v1.0.0.    |
-| [radipy-1.0.0.tar.gz]() | A*TAR.GZ* file containing the full source code of v1.0.0. |
+| 파일                 | 설명                                            |
+| :------------------- | :---------------------------------------------- |
+| [radipy-1.0.0.zip]()    | v1.0.0의 전체 소스 코드가 포함된*ZIP* 파일    |
+| [radipy-1.0.0.tar.gz]() | v1.0.0의 전체 소스 코드가 포함된*TAR.GZ* 파일 |
