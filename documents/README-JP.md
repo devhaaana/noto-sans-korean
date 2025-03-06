@@ -58,5 +58,5 @@ body {
 
 | ファイル             | 説明                                                           |
 | :------------------- | :------------------------------------------------------------- |
-| [radipy-1.0.0.zip](https://github.com/devhaaana/noto-sans-korean/archive/refs/tags/v1.0.0.zip)    | バージョン1.0.0の完全なソースコードを含む*ZIP* ファイル。    |
-| [radipy-1.0.0.tar.gz](https://github.com/devhaaana/noto-sans-korean/archive/refs/tags/v1.0.0.tar.gz) | バージョン1.0.0の完全なソースコードを含む*TAR.GZ* ファイル。 |
+| [v1.0.0.zip](https://github.com/devhaaana/noto-sans-korean/archive/refs/tags/v1.0.0.zip)    | バージョン1.0.0の完全なソースコードを含む*ZIP* ファイル。    |
+| [v1.0.0.tar.gz](https://github.com/devhaaana/noto-sans-korean/archive/refs/tags/v1.0.0.tar.gz) | バージョン1.0.0の完全なソースコードを含む*TAR.GZ* ファイル。 |
