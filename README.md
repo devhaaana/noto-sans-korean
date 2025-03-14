@@ -49,7 +49,7 @@ body {
 }
 ```
 
-##### Caution
+### Caution
 
 - If you change the folder path, make sure to **update the paths** in `css/noto-sans-korean.css`.
   - Default folder structure: `css/`, `fonts/`, `fonts/eot/`, `fonts/otf/`, `fonts/woff/`, `fonts/woff2/`
