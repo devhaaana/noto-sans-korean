@@ -28,7 +28,7 @@
   ```
 - Place the downloaded files in your preferred project directory.
 
-#### Usage: CSS
+### Usage: CSS
 
 - **Import** the stylesheet at the top of your main `.css` file:
 
